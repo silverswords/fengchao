@@ -1,7 +1,8 @@
 # fengchao
-Deep Article
 
-## Concepts
+[![Discord Chat](https://img.shields.io/discord/771388143148073040.svg)](https://discord.gg/dS9dkdNqwX) 
+
+## Host on Yuque.com
 https://www.yuque.com/fengyfei/izztd3/uvga65
 
 # Go: Language &amp; Packages
